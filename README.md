@@ -332,5 +332,3 @@ Para suporte e dúvidas:
 - Deploy com Docker
 
 ---
-
-**Desenvolvido com ❤️ usando java e Spring Boot
