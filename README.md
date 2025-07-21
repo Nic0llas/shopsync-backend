@@ -113,7 +113,7 @@ src/main/java/com/sistema/chatbot/
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/QueirozCarlos/Shopsync-backend.git
+git clone https://github.com/Nic0llas/shopsync-backend.git
 cd ChatBot-SaaS-
 ```
 
@@ -140,7 +140,7 @@ mvn spring-boot:run
 
 1. **Clone e configure**
 ```bash
-git clone https://github.com/QueirozCarlos/Shopsync-backend.git
+git clone https://github.com/Nic0llas/shopsync-backend.git
 cd ChatBot-SaaS-
 cp .env.example .env
 # Configure suas variáveis de ambiente
@@ -319,7 +319,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 Para suporte e dúvidas:
 - Abra uma issue no GitHub
-- Entre em contato: carlos.aqrodrigues@hotmail.com
+- Entre em contato: nicollas.silva.santos.araujo@gmail.com
 
 ## 🔄 Changelog
 
